@@ -1,2 +1,2 @@
-[webservers]
-192.168.166.46 ansible_user=root
+[webserver]
+192.168.166.46  ansible_user=root
